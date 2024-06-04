@@ -7,10 +7,10 @@ CDDC had set up a training platform which was open from 29 April - 25 May. Parti
 These are the topics covered, as well as the number of challenges that I could solve in each topic.
 |Topic|Solved|Total|Topic|Solved|Total|
 |-----|------|-----|-----|------|-----|
-|B1: Fundamentals of Cybersecurity|7|8|C1: Open Source Intelligence|10|10|
+|B1: Fundamentals of Cybersecurity|7|8|[C1: Open Source Intelligence](C1%20Open%20Source%20Intelligence "Open Source Intelligence")|10|10|
 |B2: Fundamentals of Linux|7|7|C2: Network Security|8|9|
 |B3: Fundamentals of Windows|7|7|C3: Web Exploitation|2|7|
-|[B4: Introduction to Networking](https://github.com/ram-nush/writeups/tree/main/CDDC%202024/Training%20Platform/B4%20Introduction%20to%20Networking "Introduction to Networking")|6|7|[C4: Cyber Forensics](https://github.com/ram-nush/writeups/tree/main/CDDC%202024/Training%20Platform/C4%20Cyber%20Forensics "Cyber Forensics")|9|11|
+|[B4: Introduction to Networking](B4%20Introduction%20to%20Networking "Introduction to Networking")|6|7|[C4: Cyber Forensics](C4%20Cyber%20Forensics "Cyber Forensics")|9|11|
 |B5: Introduction to Malware|4|7|C5: Reverse Engineering|8|12|
 |B6: Introduction to Cryptography|5|5|C6: Binary Exploitation|5|9|
 |B7: Introduction to Web Security|7|7|C7: Cryptography|10|11|
