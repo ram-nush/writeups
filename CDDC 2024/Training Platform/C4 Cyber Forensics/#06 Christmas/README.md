@@ -29,5 +29,5 @@ Opening the text file, we get the flag.
 CDDC2024{i_l0vE_y0u}
 ```
 
-## Overview
+## Thoughts
 This challenge involved the use of steganography tools (StegOnline) and methods (Least Significant Bit). I have learned that any steganography software can be used to hide files. The only way to get the hidden file is to use the same software that hid the file and extract the hidden file. In any steganography challenge, I would have to use a list of steganography tools to figure out the tool used to hide the file.
