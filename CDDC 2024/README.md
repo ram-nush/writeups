@@ -1,6 +1,8 @@
 # CDDC 2024
 Cyber Defenders Discovery Camp (CDDC) 2024 is an annual Capture-the-Flag (CTF) competition organised by the Defence Science and Technology Agency (DSTA). [CDDC](https://www.dstabrainhack.com/activities/cyber-defenders-discovery-camp "CDDC") incorporates cybersecurity training so that it caters to participants, from beginners to experts.
 
+<img src="https://github.com/ram-nush/writeups/assets/75689075/d55cf5b5-0c93-414f-920a-87450bc31b16" width="200" alt="logo">
+
 ## Virtual Self-Directed Learning
 The first part of the competition is Virtual Self-Directed Learning, where participants can pick up concepts through self-learning modules from 29 April - 25 May. Each module has lectures, assessments and training challenges to enhance problem-solving skills.
 
