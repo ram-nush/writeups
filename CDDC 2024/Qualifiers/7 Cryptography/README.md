@@ -7,5 +7,5 @@ These are the challenges in this topic.
 |Challenge|Points|Solved?|
 |---------|------|-------|
 |Diffie-Hellman|200|Not Solved|
-|Simple1|50|Solved|
-|[Simple2](Simple2 "Simple2")|100|Solved|
+|Simple1|50|Solved by subraram|
+|[Simple2](Simple2 "Simple2")|100|Solved by subraram|
